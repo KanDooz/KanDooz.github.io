@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KandooZ.Burger",
+"dataUrl": "Sci-Fi.data.unityweb",
+"wasmCodeUrl": "Sci-Fi.wasm.code.unityweb",
+"wasmFrameworkUrl": "Sci-Fi.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
